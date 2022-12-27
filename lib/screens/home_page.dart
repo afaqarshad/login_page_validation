@@ -94,7 +94,7 @@ class _HomePageState extends State<HomePage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.school),
-            label: 'School',
+            label: 'Office',
           ),
         ],
         currentIndex: _selectedIndex,
